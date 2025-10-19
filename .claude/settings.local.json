@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx quartz build:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
