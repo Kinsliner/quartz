@@ -1,5 +1,5 @@
 ---
-title: 開發日誌 #5 - Reranking 精排序實作
+title: "#05 Reranking 精排序實作"
 tags: [RAG, Reranking, Cross-Encoder, Information-Retrieval]
 created: 2025-10-12
 ---

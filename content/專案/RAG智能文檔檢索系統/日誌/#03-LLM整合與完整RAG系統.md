@@ -1,5 +1,5 @@
 ---
-title: 開發日誌 #3 - LLM 整合與完整 RAG 系統
+title: "#03 LLM 整合與完整 RAG 系統"
 tags: [RAG, LLM, Ollama, AI, Prompt-Engineering]
 created: 2025-10-12
 ---

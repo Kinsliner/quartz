@@ -1,10 +1,10 @@
 ---
-title: "#6 Web 介面開發 - 從 CLI 到團隊共用"
+title: "#06 Web 介面開發 - 從 CLI 到團隊共用"
 tags: [streamlit, web-ui, team-collaboration, ux-design]
 created: 2025-10-13
 ---
 
-# #6 Web 介面開發
+# 開發日誌 #6 - Web 介面開發
 
 ## 為什麼需要 Web 版本？
 
