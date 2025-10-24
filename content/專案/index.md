@@ -8,6 +8,38 @@ title: 所有專案
 
 ## 專案列表
 
+### [[RAG智能文檔檢索系統/index|RAG 智能文檔檢索系統]]
+
+從零打造企業級知識庫,專為中文招標文件優化的完整 RAG 系統
+
+**標籤**: #RAG #NLP #Vector-Database #LLM #Document-Processing #Python
+
+---
+
+### [[satellite-map-tool/index|Satellite Map Tool]]
+
+衛星地圖截圖工具 - 精確 1:1 像素比例的純淨衛星影像生成工具
+
+**標籤**: #Python #衛星地圖 #Selenium #Folium #命令行工具
+
+---
+
+### [[AI自動化Coding工具/index|AI 自動化 Coding 工具]]
+
+自動化程式碼開發工具,提升開發效率
+
+**標籤**: #AI #Automation #Coding #專案
+
+---
+
+### [[AI自動化Unity工作流整合/index|AI 自動化 Unity 工作流整合]]
+
+整合 AI 工具優化 Unity 開發流程
+
+**標籤**: #AI #Unity #Workflow #專案
+
+---
+
 ### [[Parasync/index|Parasync]]
 
 Unity 連線遊戲開發的輕量級狀態同步框架
