@@ -115,19 +115,14 @@ github: https://github.com/yourusername/rag-chunking-engine
 └──────────────────┘
 ```
 
-## 開發歷程
+## 開發日誌
 
-從需求分析到系統上線，我將整個開發過程詳細記錄在以下日誌中：
-
-### CLI 版本開發
-1. [[日誌/01-專案初始化與智能分片引擎|#1 專案初始化與智能分片引擎]] - 專案架構設計與 ProposalChunker 核心開發
-2. [[日誌/02-向量化與檢索系統建置|#2 向量化與檢索系統建置]] - 向量模型選擇與 ChromaDB 整合
-3. [[日誌/03-LLM整合與完整RAG系統|#3 LLM 整合與完整 RAG 系統]] - Ollama 整合實現智能問答
-4. [[日誌/04-專案優化與技術總結|#4 專案優化與技術總結]] - 系統優化與經驗總結
-5. [[日誌/05-Reranking精排序實作|#5 Reranking 精排序實作]] - 兩階段檢索提升準確度
-
-### Web 版本開發
-6. [[日誌/06-Web介面開發|#6 Web 介面開發]] - 使用 Streamlit 打造團隊共用的 Web 介面
+1. [[DevLog/RAG智能文檔檢索系統/Phase-1|#1 智能分片引擎]] - 專為中文招標文件設計的 ProposalChunker
+2. [[DevLog/RAG智能文檔檢索系統/Phase-2|#2 向量化與檢索]] - bge-small-zh-v1.5 + ChromaDB 整合
+3. [[DevLog/RAG智能文檔檢索系統/Phase-3|#3 LLM 整合]] - Ollama 本地部署，完整 RAG 流程跑通
+4. [[DevLog/RAG智能文檔檢索系統/Phase-4|#4 工程化整理]] - 輸出目錄整理與 CLI 體驗優化
+5. [[DevLog/RAG智能文檔檢索系統/Phase-5|#5 Reranking 精排序]] - 兩階段檢索提升排序品質
+6. [[DevLog/RAG智能文檔檢索系統/Phase-6|#6 Web 介面]] - Streamlit 打造團隊共用介面
 
 ## 技術挑戰
 

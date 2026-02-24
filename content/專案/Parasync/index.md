@@ -33,7 +33,11 @@ Parasync 是一個專為 Unity 連線遊戲開發設計的輕量級狀態同步�
 - 語言/框架：C#、Unity、KCP
 - AI 協作工具：Cursor、ChatGPT、Claude Code
 
-# 
+## 開發日誌
+
+1. [[DevLog/Parasync/Phase-1|#1 初始構想]] - 狀態同步框架的設計動機與三次迭代
+
+
 
 ## 相關連結
 

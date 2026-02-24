@@ -56,9 +56,9 @@ github: https://github.com/yourusername/satellite-map-tool
 - 輸出圖片尺寸直接等於邊長數值
 - 便於使用者預估和理解範圍大小
 
-## 開發歷程
+## 開發日誌
 
-1. [[日誌/Phase-1-從零開始打造衛星地圖截圖工具|#1 Phase 1: 從零開始打造衛星地圖截圖工具]] - 專案架構建立、核心功能實作、品質優化
+1. [[DevLog/satellite-map-tool/Phase-1|#1 衛星截圖工具]] - 專案架構建立、核心功能實作、品質優化
 
 ## 技術挑戰
 

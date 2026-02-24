@@ -64,6 +64,14 @@ AI 快速啟動工具 - 提升開發效率的專案管理助手
 
 ---
 
+### [[專案/EAS Foundation/index|EAS Foundation]]
+
+Unity 遊戲框架全面重寫之旅 - 從繼承地獄到 Provider 天堂，169 個檔案的完整重構記錄
+
+**標籤**: #Unity #C# #框架重寫 #EAS-Foundation #架構設計
+
+---
+
 ## 按標籤瀏覽
 
 - #AI - AI 輔助開發相關專案

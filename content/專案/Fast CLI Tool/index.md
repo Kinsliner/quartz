@@ -32,11 +32,9 @@ Fast CLI Tool 是「助手系列」的第一個工具，專為提升開發效率
 
 ## 開發日誌
 
-開發過程的詳細記錄：
-
-1. [[專案/Fast CLI Tool/日誌/Phase-1-設定系統開發|Phase 1: 設定系統開發]] - 讓使用者自訂預設 CLI 命令，建立設定系統架構
-2. [[專案/Fast CLI Tool/日誌/Phase-2-custom-command-execution|Phase 2: 自訂指令執行]] - 為每個專案設定專屬啟動指令，一鍵執行開發任務
-3. [[專案/Fast CLI Tool/日誌/Phase-3-multiple-custom-commands|Phase 3: 多指令管理系統]] - 從單一指令升級到多指令管理，打造完整的指令工具箱
+1. [[DevLog/Fast-CLI-Tool/Phase-1|#1 設定系統]] - 讓使用者自訂預設 CLI 命令，建立設定系統架構
+2. [[DevLog/Fast-CLI-Tool/Phase-2|#2 自訂指令]] - 為每個專案設定專屬啟動指令，一鍵執行開發任務
+3. [[DevLog/Fast-CLI-Tool/Phase-3|#3 多指令管理]] - 從單一指令升級到多指令管理，打造完整的指令工具箱
 
 ## 相關連結
 
