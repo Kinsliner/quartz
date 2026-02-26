@@ -5,9 +5,8 @@ created: 2026-02-16
 phase: 5
 ---
 
-# #05 BuildTool 收官
-
 > **Tech** C#, Unity Editor, Build Pipeline, Reflection, JSON
+>
 > **AI** Claude Code
 
 ## 源起
@@ -63,6 +62,3 @@ Pipeline 序列化靠反射——Unity 的 `JsonUtility` 不支援多型序列�
 
 169 個檔案全部完成並提交。從 Phase 1 的框架重寫啟動，經過 Runtime Core、AssetHub、Editor 工具、Extension 整理，到 BuildTool 收官，整個基礎層重構完畢。接下來從基礎設施建設轉向實際應用開發。
 
----
-
-返回 [[專案/EAS Foundation/index|EAS Foundation 專案首頁]]

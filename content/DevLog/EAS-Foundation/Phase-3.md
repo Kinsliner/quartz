@@ -5,9 +5,8 @@ created: 2026-02-16
 phase: 3
 ---
 
-# #03 AssetHub 架構翻新
-
 > **Tech** C#, Unity Editor IMGUI, TypeResolver, ReorderableTable
+>
 > **AI** Claude Code
 
 ## 源起
@@ -55,6 +54,3 @@ AssetHub 是整個框架的資源載入中樞——音效、圖片、Prefab 全�
 
 單次提交檔案數最多的一次。好的架構不是一開始就想出來的，是在推敲、比較、試錯中逐漸成形的。Provider 模式解決了繼承體系的所有痛點，還保留了擴充的靈活性。
 
----
-
-返回 [[專案/EAS Foundation/index|EAS Foundation 專案首頁]]

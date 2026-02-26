@@ -5,9 +5,8 @@ created: 2025-10-12
 phase: 3
 ---
 
-# #03 LLM 整合
-
 > **Tech** Ollama, Llama 3.1, Python requests
+>
 > **AI** Claude Code
 
 ## 源起
@@ -43,6 +42,3 @@ LLM 選 Ollama + Llama 3.1。理由是資料安全（招標文件不能外洩）
 
 RAG 的完整流程跑通了。問「數位雙生系統的架構」能回答出四層架構設計和各層技術細節，全部來自檢索到的分片。
 
----
-
-返回 [[專案/RAG智能文檔檢索系統/index|專案首頁]]

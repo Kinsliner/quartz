@@ -5,9 +5,8 @@ created: 2025-10-13
 phase: 2
 ---
 
-# #02 四階段工作流
-
 > **Tech** Python, Jira REST API, Git Worktree, subprocess
+>
 > **AI** Claude Code
 
 ## 源起
@@ -44,6 +43,3 @@ Git Worktree 的隔離設計是整個流程的基礎——每個任務有獨立�
 
 四階段跑通之後，日常使用流程是：在 Jira 建任務加標籤，等通知看 AI 產出，覺得 OK 就 `@approved`，不行就 `@rejected` 附上修改意見。開發和測試階段還在持續迭代中。
 
----
-
-返回 [[專案/AI自動化Unity工作流整合/index|專案首頁]]

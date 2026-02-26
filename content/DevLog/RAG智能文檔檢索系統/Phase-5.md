@@ -5,9 +5,8 @@ created: 2025-10-12
 phase: 5
 ---
 
-# #05 Reranking 精排序
-
 > **Tech** sentence-transformers CrossEncoder, BAAI/bge-reranker-v2-m3
+>
 > **AI** Claude Code
 
 ## 源起
@@ -41,6 +40,3 @@ Reranking 增加約 0.5 秒，整體問答時間從 4-6 秒變成 5-7 秒，可�
 
 排序品質提升明顯，最相關的結果確實排到了前面。0.5 秒換更好的答案品質，值得。
 
----
-
-返回 [[專案/RAG智能文檔檢索系統/index|專案首頁]]

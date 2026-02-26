@@ -5,9 +5,8 @@ created: 2025-10-24
 phase: 1
 ---
 
-# #01 設定系統
-
 > **Tech** WPF, C#, MVVM, JSON
+>
 > **AI** Claude Code
 
 ## 源起
@@ -38,6 +37,3 @@ Fast CLI Tool 已經能管理多個專案路徑、選擇不同的 CLI 命令來�
 
 設定系統本身功能不多，但把 JSON 持久化、自動保存、Tab UI 的基礎都搭好了。後續要加新設定項只需要在 model 加屬性、在 view 加控制項就行。
 
----
-
-返回 [[專案/Fast CLI Tool/index|Fast CLI Tool 專案]]

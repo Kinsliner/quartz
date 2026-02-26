@@ -5,9 +5,8 @@ created: 2025-10-13
 phase: 6
 ---
 
-# #06 Web 介面
-
 > **Tech** Streamlit, Python
+>
 > **AI** Claude Code
 
 ## 源起
@@ -43,6 +42,3 @@ CLI 版本功能完整但公司有 10 位同事要用，不是每個人都會操
 
 UI 層完成，RAG 後端整合還在進行中。對小團隊內部工具來說，Streamlit 是開發效率最高的選擇。
 
----
-
-返回 [[專案/RAG智能文檔檢索系統/index|專案首頁]]

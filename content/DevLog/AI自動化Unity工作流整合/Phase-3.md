@@ -5,9 +5,8 @@ created: 2025-10-13
 phase: 3
 ---
 
-# #03 Tool Use 專案探索
-
 > **Tech** Anthropic Tool Use API, Python, asyncio
+>
 > **AI** Claude Sonnet
 
 ## 源起
@@ -57,6 +56,3 @@ phase: 3
 
 Tool Use 讓 AI 從「猜測式生成」變成「理解式設計」。生出來的設計文件能指向具體檔案和行號，對後續開發階段的幫助大很多。
 
----
-
-返回 [[專案/AI自動化Unity工作流整合/index|專案首頁]]

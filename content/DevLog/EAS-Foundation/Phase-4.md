@@ -5,9 +5,8 @@ created: 2026-02-16
 phase: 4
 ---
 
-# #04 Editor 工具、UI 元件、Extension
-
 > **Tech** C#, Unity Editor IMGUI, PropertyDrawer, IDragHandler, Extension Methods
+>
 > **AI** Claude Code
 
 ## 源起
@@ -68,6 +67,3 @@ Icon 對齊是最痛苦的部分——`EditorGUIUtility.IconContent` 會自動�
 
 Extension 大掃除砍掉大量冗餘。精簡的 API 比豐富的 API 更好用——每個擴充方法都會出現在 IntelliSense 裡，太多反而造成選擇困擾。
 
----
-
-返回 [[專案/EAS Foundation/index|EAS Foundation 專案首頁]]

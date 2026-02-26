@@ -5,9 +5,8 @@ created: 2025-10-24
 phase: 2
 ---
 
-# #02 自訂指令
-
 > **Tech** WPF, C#, Process, cmd.exe
+>
 > **AI** Claude Code
 
 ## 源起
@@ -44,6 +43,3 @@ dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=
 
 單一指令的版本已經能用，但很快就發現一個專案只能存一條指令不夠用。
 
----
-
-返回 [[專案/Fast CLI Tool/index|Fast CLI Tool 專案]]

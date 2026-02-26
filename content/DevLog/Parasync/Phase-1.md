@@ -5,9 +5,8 @@ created: 2025-09-27
 phase: 1
 ---
 
-# #01 初始構想
-
 > **Tech** C#, Unity, KCP
+>
 > **AI** Cursor, ChatGPT, Claude Code
 
 ## 源起
@@ -38,6 +37,3 @@ phase: 1
 
 這個階段完成了框架的初版設計和核心實作。狀態同步的基本能力跑起來了，但整體還在持續開發中。
 
----
-
-返回 [[專案/Parasync/index|Parasync 專案首頁]]

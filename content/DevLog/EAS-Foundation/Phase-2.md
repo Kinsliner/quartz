@@ -5,9 +5,8 @@ created: 2026-02-15
 phase: 2
 ---
 
-# #02 Runtime 核心與效能
-
 > **Tech** C#, Unity Runtime, ObserverList, struct Enumerator
+>
 > **AI** Claude Code
 
 ## 源起
@@ -58,6 +57,3 @@ key 的選型：字串容易拼錯、enum 每次新增要改定義，最後選 `
 
 效能優化不一定要寫很複雜的程式碼。ObserverList 的設計很簡單——換個資料結構、加個快取機制，就從每幀產生垃圾變成完全零配置。
 
----
-
-返回 [[專案/EAS Foundation/index|EAS Foundation 專案首頁]]

@@ -5,9 +5,8 @@ created: 2025-10-12
 phase: 2
 ---
 
-# #02 向量化與檢索
-
 > **Tech** ChromaDB, sentence-transformers, BAAI/bge-small-zh-v1.5
+>
 > **AI** Claude Code
 
 ## 源起
@@ -40,6 +39,3 @@ Embedding 模型選 BAAI/bge-small-zh-v1.5：專為中文優化、100MB 大小�
 
 檢索效果不錯——問「系統架構」能準確找到架構相關的章節，相似度 0.67 左右。
 
----
-
-返回 [[專案/RAG智能文檔檢索系統/index|專案首頁]]

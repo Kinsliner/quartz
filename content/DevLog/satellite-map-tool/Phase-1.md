@@ -5,9 +5,8 @@ created: 2025-10-23
 phase: 1
 ---
 
-# #01 衛星截圖工具
-
 > **Tech** Python, Folium, Selenium, Pillow, geopy
+>
 > **AI** Claude Code
 
 ## 源起
@@ -46,6 +45,3 @@ Google Maps API 要收費有額度限制，寫個 web app 來串接功能又覺�
 
 一個下午從零到可用。工具不複雜，但「zoom level 品質修正」和「投影座標轉換」這兩個坑佔了大部分時間。
 
----
-
-返回 [[專案/satellite-map-tool/index|專案首頁]]

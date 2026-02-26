@@ -5,9 +5,8 @@ created: 2025-10-24
 phase: 3
 ---
 
-# #03 多指令管理
-
 > **Tech** WPF, C#, ObservableCollection, DataTrigger
+>
 > **AI** Claude Code
 
 ## 源起
@@ -44,6 +43,3 @@ XAML 巢狀太深容易迷路。寫到一半搞不清楚在哪層，加 Margin �
 
 從單一指令到多指令是使用體驗上質的變化。Fast CLI Tool 的核心功能到這邊基本完整。
 
----
-
-返回 [[專案/Fast CLI Tool/index|Fast CLI Tool 專案]]
