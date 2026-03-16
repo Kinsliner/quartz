@@ -1,0 +1,47 @@
+[2026-03-16 23:12:11] === sync-blogs started ===
+[2026-03-16 23:12:52] Found 8 blog directories
+[2026-03-16 23:12:53] COPIED: /d/Projects/assistant/AssetLibrary/blog/Phase-1.md -> /d/Projects/quartz/content/DevLog/AssetLibrary/Phase-1.md
+[2026-03-16 23:12:53] COPIED: /d/Projects/assistant/AssetLibrary/blog/Phase-2.md -> /d/Projects/quartz/content/DevLog/AssetLibrary/Phase-2.md
+[2026-03-16 23:12:53] COPIED: /d/Projects/assistant/ops-platform/blog/Phase-1.md -> /d/Projects/quartz/content/DevLog/ops-platform/Phase-1.md
+[2026-03-16 23:12:53] COPIED: /d/Projects/assistant/ops-platform/blog/Phase-2.md -> /d/Projects/quartz/content/DevLog/ops-platform/Phase-2.md
+[2026-03-16 23:12:54] COPIED: /d/Projects/assistant/ops-platform/frontend/blog/Phase-1.md -> /d/Projects/quartz/content/DevLog/frontend/Phase-1.md
+[2026-03-16 23:12:54] COPIED: /d/Projects/assistant/project-board/blog/Phase-1.md -> /d/Projects/quartz/content/DevLog/project-board/Phase-1.md
+[2026-03-16 23:12:54] COPIED: /d/Projects/assistant/project-board/blog/Phase-2.md -> /d/Projects/quartz/content/DevLog/project-board/Phase-2.md
+[2026-03-16 23:12:54] COPIED: /d/Projects/assistant/project-board/blog/Phase-3.md -> /d/Projects/quartz/content/DevLog/project-board/Phase-3.md
+[2026-03-16 23:12:54] COPIED: /d/Projects/assistant/workflow/blog/Phase-1.md -> /d/Projects/quartz/content/DevLog/workflow/Phase-1.md
+[2026-03-16 23:12:54] COPIED: /d/Projects/assistant/workflow/blog/Phase-2.md -> /d/Projects/quartz/content/DevLog/workflow/Phase-2.md
+[2026-03-16 23:12:55] COPIED: /d/Projects/assistant/workflow/blog/Phase-3.md -> /d/Projects/quartz/content/DevLog/workflow/Phase-3.md
+[2026-03-16 23:12:55] COPIED: /d/Projects/assistant/workflow/blog/Phase-4.md -> /d/Projects/quartz/content/DevLog/workflow/Phase-4.md
+[2026-03-16 23:12:55] COPIED: /d/Projects/assistant/workflow/blog/Phase-5.md -> /d/Projects/quartz/content/DevLog/workflow/Phase-5.md
+[2026-03-16 23:12:55] COPIED: /d/Projects/cli-workflow/blog/Phase-1.md -> /d/Projects/quartz/content/DevLog/cli-workflow/Phase-1.md
+[2026-03-16 23:12:55] COPIED: /d/Projects/fast-cli-tool/blog/Phase-1-設定系統開發.md -> /d/Projects/quartz/content/DevLog/fast-cli-tool/Phase-1-設定系統開發.md
+[2026-03-16 23:12:55] COPIED: /d/Projects/fast-cli-tool/blog/Phase-2-custom-command-execution.md -> /d/Projects/quartz/content/DevLog/fast-cli-tool/Phase-2-custom-command-execution.md
+[2026-03-16 23:12:55] COPIED: /d/Projects/fast-cli-tool/blog/Phase-3-multiple-custom-commands.md -> /d/Projects/quartz/content/DevLog/fast-cli-tool/Phase-3-multiple-custom-commands.md
+[2026-03-16 23:12:55] COPIED: /d/Projects/fast-cli-tool/blog/Phase-4-release-and-publish.md -> /d/Projects/quartz/content/DevLog/fast-cli-tool/Phase-4-release-and-publish.md
+[2026-03-16 23:12:55] === sync-blogs finished: copied=18 skipped=5 errors=0 ===
+[2026-03-16 23:21:03] === sync-blogs started ===
+[2026-03-16 23:21:04] Found 8 blog directories
+[2026-03-16 23:21:04] COPIED: /d/Projects/assistant/AssetLibrary/blog/Phase-1.md -> /d/Projects/quartz/content/DevLog/Asset-Library/Phase-1.md
+[2026-03-16 23:21:04] COPIED: /d/Projects/assistant/AssetLibrary/blog/Phase-2.md -> /d/Projects/quartz/content/DevLog/Asset-Library/Phase-2.md
+[2026-03-16 23:21:05] COPIED: /d/Projects/assistant/ops-platform/blog/Phase-1.md -> /d/Projects/quartz/content/DevLog/Ops-Platform/Phase-1.md
+[2026-03-16 23:21:05] COPIED: /d/Projects/assistant/ops-platform/blog/Phase-2.md -> /d/Projects/quartz/content/DevLog/Ops-Platform/Phase-2.md
+[2026-03-16 23:21:05] COPIED: /d/Projects/assistant/ops-platform/frontend/blog/Phase-1.md -> /d/Projects/quartz/content/DevLog/frontend/Phase-1.md
+[2026-03-16 23:21:06] COPIED: /d/Projects/assistant/project-board/blog/Phase-1.md -> /d/Projects/quartz/content/DevLog/Project-Board/Phase-1.md
+[2026-03-16 23:21:06] COPIED: /d/Projects/assistant/project-board/blog/Phase-2.md -> /d/Projects/quartz/content/DevLog/Project-Board/Phase-2.md
+[2026-03-16 23:21:06] COPIED: /d/Projects/assistant/project-board/blog/Phase-3.md -> /d/Projects/quartz/content/DevLog/Project-Board/Phase-3.md
+[2026-03-16 23:21:06] COPIED: /d/Projects/assistant/workflow/blog/Phase-1.md -> /d/Projects/quartz/content/DevLog/AI-Workflow-Orchestrator/Phase-1.md
+[2026-03-16 23:21:06] COPIED: /d/Projects/assistant/workflow/blog/Phase-2.md -> /d/Projects/quartz/content/DevLog/AI-Workflow-Orchestrator/Phase-2.md
+[2026-03-16 23:21:06] COPIED: /d/Projects/assistant/workflow/blog/Phase-3.md -> /d/Projects/quartz/content/DevLog/AI-Workflow-Orchestrator/Phase-3.md
+[2026-03-16 23:21:06] COPIED: /d/Projects/assistant/workflow/blog/Phase-4.md -> /d/Projects/quartz/content/DevLog/AI-Workflow-Orchestrator/Phase-4.md
+[2026-03-16 23:21:07] COPIED: /d/Projects/assistant/workflow/blog/Phase-5.md -> /d/Projects/quartz/content/DevLog/AI-Workflow-Orchestrator/Phase-5.md
+[2026-03-16 23:21:07] COPIED: /d/Projects/assistant/workflow/blog/Phase-6.md -> /d/Projects/quartz/content/DevLog/AI-Workflow-Orchestrator/Phase-6.md
+[2026-03-16 23:21:07] COPIED: /d/Projects/cli-workflow/blog/Phase-1.md -> /d/Projects/quartz/content/DevLog/CLI-Workflow/Phase-1.md
+[2026-03-16 23:21:07] COPIED: /d/Projects/fast-cli-tool/blog/Phase-1-設定系統開發.md -> /d/Projects/quartz/content/DevLog/Fast-CLI-Tool/Phase-1-設定系統開發.md
+[2026-03-16 23:21:07] COPIED: /d/Projects/fast-cli-tool/blog/Phase-2-custom-command-execution.md -> /d/Projects/quartz/content/DevLog/Fast-CLI-Tool/Phase-2-custom-command-execution.md
+[2026-03-16 23:21:07] COPIED: /d/Projects/fast-cli-tool/blog/Phase-3-multiple-custom-commands.md -> /d/Projects/quartz/content/DevLog/Fast-CLI-Tool/Phase-3-multiple-custom-commands.md
+[2026-03-16 23:21:07] COPIED: /d/Projects/fast-cli-tool/blog/Phase-4-release-and-publish.md -> /d/Projects/quartz/content/DevLog/Fast-CLI-Tool/Phase-4-release-and-publish.md
+[2026-03-16 23:21:07] === sync-blogs finished: copied=19 skipped=5 errors=0 ===
+[2026-03-16 23:27:33] === sync-blogs started ===
+[2026-03-16 23:27:34] Found 7 blog directories
+[2026-03-16 23:27:35] COPIED: /d/Projects/assistant/ops-platform/blog/Phase-3.md -> /d/Projects/quartz/content/DevLog/Ops-Platform/Phase-3.md
+[2026-03-16 23:27:36] === sync-blogs finished: copied=1 skipped=23 errors=0 ===

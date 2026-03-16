@@ -15,6 +15,7 @@ title: 我的作品集
 - [[DevLog/Parasync/Phase-1|Parasync]] - 網路同步框架
 - [[DevLog/AI自動化Coding工具/Phase-1|AI 自動化 Coding 工具]] - 自動化編碼工具
 - [[DevLog/satellite-map-tool/Phase-1|Satellite Map Tool]] - 衛星地圖截圖工具
+- [[DevLog/Money-App/Phase-1|Money App]] - 手機記帳 APP
 
 ---
 
