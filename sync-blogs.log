@@ -45,3 +45,10 @@
 [2026-03-16 23:27:34] Found 7 blog directories
 [2026-03-16 23:27:35] COPIED: /d/Projects/assistant/ops-platform/blog/Phase-3.md -> /d/Projects/quartz/content/DevLog/Ops-Platform/Phase-3.md
 [2026-03-16 23:27:36] === sync-blogs finished: copied=1 skipped=23 errors=0 ===
+[2026-03-16 23:39:39] === sync-blogs started ===
+[2026-03-16 23:39:40] Found 7 blog directories
+[2026-03-16 23:39:42] COPIED: /d/Projects/fast-cli-tool/blog/Phase-1.md -> /d/Projects/quartz/content/DevLog/Fast-CLI-Tool/Phase-1.md
+[2026-03-16 23:39:42] COPIED: /d/Projects/fast-cli-tool/blog/Phase-2.md -> /d/Projects/quartz/content/DevLog/Fast-CLI-Tool/Phase-2.md
+[2026-03-16 23:39:42] COPIED: /d/Projects/fast-cli-tool/blog/Phase-3.md -> /d/Projects/quartz/content/DevLog/Fast-CLI-Tool/Phase-3.md
+[2026-03-16 23:39:42] COPIED: /d/Projects/fast-cli-tool/blog/Phase-4.md -> /d/Projects/quartz/content/DevLog/Fast-CLI-Tool/Phase-4.md
+[2026-03-16 23:39:42] === sync-blogs finished: copied=4 skipped=20 errors=0 ===
